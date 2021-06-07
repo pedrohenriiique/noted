@@ -138,7 +138,7 @@
         "por de trás dos panos". Como, as linhas de códigos e as tecnologias utilizadas.
       </h5>
       <h5 class="center" style="text-align: justify">O projeto encontra-se hospedado em 
-        <a href="https://github.com/peeeeedro">GitHub</a>
+        <a href="https://github.com/peeeeedro/noted">GitHub</a>
       </h5>
     </div>
     <div class="row center">
